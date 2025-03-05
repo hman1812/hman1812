@@ -1,7 +1,7 @@
 ## WELCOME TO MY GITHUB!  ✨<br> 
 
 # 💫 About Me:
-<br>👩‍🦰 I'm Huệ Mẫn<br>🎓 Final-year Fintech student at Banking University of Ho Chi Minh City. <br>📊Learning about data analytics, data visualization and data query<br>🗂️ I’m excited to share the projects I've completed throughout my studies<br>
+<br>👩‍🦰 I'm Huệ Mẫn<br>🎓 Final-year Fintech student at Banking University of Ho Chi Minh City <br>📊Learning about data analytics, data visualization and data query<br>🗂️ I’m excited to share the projects I've completed throughout my studies<br>
 
 
 ## 🌐 Socials:
