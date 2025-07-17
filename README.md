@@ -1,4 +1,4 @@
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/28a57ca4-c02c-40c5-9040-9eee349317b7" />## WELCOME TO MY GITHUB!  ✨<br> 
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/28a57ca4-c02c-40c5-9040-9eee349317b7" /> ## WELCOME TO MY GITHUB!  ✨<br> 
 
 # 💫 About Me:
 <br>👩‍🦰 I'm Huệ Mẫn<br>🎓 Final-year Fintech student at Banking University of Ho Chi Minh City <br>💼Looking for a full-time Analyst position <br>📊Learning about data analytics, data visualization and data query<br>🗂️ I’m excited to share the projects I have completed throughout my studies<br>
